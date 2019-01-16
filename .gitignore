@@ -93,6 +93,3 @@ ENV/
 /db.sqlite3
 /Atlas/migrations/
 /.idea/
-
-# Discord config files
-config.json

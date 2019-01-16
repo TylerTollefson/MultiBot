@@ -1,0 +1,13 @@
+{"discord":
+  {
+    "email":"",
+    "password":""
+  },
+"token":"",
+"prefix":"!",
+"keywords": {
+    "Help":"help",
+    "Reboot":"reboot",
+    "Prefix":"prefix"
+  }
+}
