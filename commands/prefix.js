@@ -7,5 +7,7 @@ exports.run = (client, message, args) => {
     config.prefix = newPrefix;
     fs.writeFile("../config.json", JSON.stringify(config));
     message.channel.send("Prefix changed to ["+newPrefix+"]");
+  } else {
+    message.channel.send("Insufficient permissions.");
   }
 }
