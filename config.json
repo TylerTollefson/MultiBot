@@ -1,13 +1,14 @@
 {"discord":
   {
-    "email":"",
-    "password":""
+    "email":"ttollefson45@gmail.com",
+    "password":"Tym0m@m@56"
   },
-"token":"",
+"token":"NTM0OTEzMTkxMjk4NDY1ODI3.DyAmLA._w5tSWTuA91hq7vKUrkfCSHyu6Q",
 "prefix":"!",
 "keywords": {
     "Help":"help",
     "Reboot":"reboot",
-    "Prefix":"prefix"
+    "Prefix":"prefix",
+    "RaidTeam":"raidteam"
   }
 }

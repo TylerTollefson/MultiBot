@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^11.4.2",
-    "giphy-api": "^2.0.1"
+    "better-sqlite-pool": "^0.2.2",
+    "discord.js": "^11.5.1",
+    "enmap": "^4.8.7"
   }
 }
